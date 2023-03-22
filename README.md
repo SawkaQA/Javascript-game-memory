@@ -1,1 +1,1 @@
-# JS_game_memory
+# JavaScript Game Memory
